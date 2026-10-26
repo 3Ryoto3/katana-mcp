@@ -1,0 +1,11 @@
+{
+  "name": "katana-mcp",
+  "owner": { "name": "Katana", "email": "katanascreener@gmail.com" },
+  "plugins": [
+    {
+      "name": "katana",
+      "source": "./",
+      "description": "Screen every listed company in Japan by financials, custom formulas, and annual report text."
+    }
+  ]
+}

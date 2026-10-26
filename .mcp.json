@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "katana": {
+      "type": "http",
+      "url": "https://mcp.katanascreener.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "katana",
+  "displayName": "Katana — Japan Stock Screener",
+  "version": "1.0.0",
+  "description": "Screen every listed company in Japan by financials, custom formulas, and annual report text.",
+  "author": { "name": "Katana", "email": "katanascreener@gmail.com", "url": "https://katanascreener.com/" },
+  "homepage": "https://katanascreener.com/en/mcp/",
+  "repository": "https://github.com/3Ryoto3/katana-mcp",
+  "license": "MIT",
+  "keywords": ["japan", "stocks", "screener", "edinet", "finance", "mcp"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://katanascreener.com/en/mcp/",
+  "privacyPolicyUrl": "https://katanascreener.com/en/privacy.html",
+  "termsOfServiceUrl": "https://katanascreener.com/en/terms.html"
+}

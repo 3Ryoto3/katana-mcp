@@ -1,0 +1,10 @@
+{
+  "name": "katana",
+  "version": "1.0.0",
+  "description": "Screen every listed company in Japan by financials, custom formulas, and annual report text.",
+  "mcpServers": {
+    "katana": {
+      "httpUrl": "https://mcp.katanascreener.com/mcp"
+    }
+  }
+}
