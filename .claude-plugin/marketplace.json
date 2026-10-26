@@ -1,6 +1,12 @@
 {
   "name": "katana-mcp",
-  "owner": { "name": "Katana", "email": "katanascreener@gmail.com" },
+  "owner": {
+    "name": "Katana",
+    "email": "katanascreener@gmail.com"
+  },
+  "metadata": {
+    "description": "Katana — Japan Stock Screener MCP and skills for screening Japanese listed companies."
+  },
   "plugins": [
     {
       "name": "katana",
